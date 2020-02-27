@@ -46,7 +46,7 @@ Two graphs were pulled from this data to take a further look:
 
 ![1](https://github.com/Helen-Ly/kickstarter-analysis/blob/master/Campaign%20Outcome%20vs%20Goal%20Amount%20by%20%25%20(Plays).png)
 
-At a quick glance, the first graph shows that launching a campaign during Qtr2 and Qtr 3 equates to the highest amount of successful campaigns. The second graph shows the relationship between campaign outcomes and the goal amount by percentage. Initially, you see that campaigns with lower goal amounts have a higher success rate versus ones with goal amounts $50,000 or more.
+At a quick glance, the first graph shows that launching a campaign during Qtr2 and Qtr 3 equates to the highest amount of successful campaigns. As such, one will come to the conclusion that the best time to launch is Quarter 2 beacuse the rate starts dropping after Quarter 3. This means that it will not be wise to launch any campaigns near the end of the year. The second graph shows the relationship between campaign outcomes and the goal amount by percentage. Initially, you see that campaigns with lower goal amounts have a higher success rate versus ones with goal amounts $50,000 or more.
 
 #### Limitations
 We run into issues when we want to know specifically which months are best for the launch date, the length and if that contributes to the success of a campaign. As well, are the successful campaigns exclusively within a certain country or if it is spread across the world. 
