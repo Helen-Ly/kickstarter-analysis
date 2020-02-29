@@ -49,19 +49,18 @@ Two graphs were pulled from this data to take a further look:
 At a quick glance, the first graph shows that launching a campaign during Qtr2 and Qtr 3 equates to the highest amount of successful campaigns. As such, one will come to the conclusion that the best time to launch is Quarter 2 beacuse the rate starts dropping after Quarter 3. This means that it will not be wise to launch any campaigns near the end of the year. The second graph shows the relationship between campaign outcomes and the goal amount by percentage. Initially, you see that campaigns with lower goal amounts have a higher success rate versus ones with goal amounts $50,000 or more.
 
 #### Limitations
-We run into issues when we want to know specifically which months are best for the launch date, the length and if that contributes to the success of a campaign. As well, are the successful campaigns exclusively within a certain country or if it is spread across the world. 
-
+With the graphs presented above, we only just scratch the surface with information. We run into issues when we want to know specifically which month(s) are best for the launch date, the suggested length of the campaign and if that contributes to its success. As well, are the successful campaigns exclusively within a certain country or if it is spread across the world. 
 
 We can get a better insight by diving deeper into the data with the following graphs below:
 
 **1. Campaign Outcome vs. Campaign Length (Plays)**
 
-Answering if the length of a campaign contributes to its success, we did some simple math and subtracted the end date from the launch date of every campaign for plays. First looking at the graph by %, generally, there are more successful campaigns than failed ones. However, if we took a look at the second graph, it provides us with more information.
+Answering what length and if that length of a campaign contributes to its success, we did some simple math and subtracted the end date from the launch date of every campaign for plays. First looking at the graph by %, generally, there are more successful campaigns than failed ones. However, if we took a look at the second graph, it provides us with more information.
 
-In the first graph, you don't see how many campaigns are under each category, but when you look at the actual number of campaigns as opposed to by percentage, the majority of campaigns have a length of 21 to 30 days. This is extremely important as it provides insight to why campaigns with 51 or more days have a 100% success rate. When you compare this data point to the second graph, there are a little over 50 campaigns with that length as opposed to 350 campaigns for 21 to 30 days.
+In the first graph, you don't see how many campaigns are under each category, but when you look at the second graph, the actual number of campaigns as opposed to by percentage, the majority of campaigns have a length of 30 days. This is extremely important as it provides insight to why campaigns with 51 or more days have a 100% success rate. When you compare this data point to the second graph, there are well below 50 campaigns with one outlier with the length of 51 or more days as opposed to roughly 300 campaigns with 30 days.
 
 ![](https://github.com/Helen-Ly/kickstarter-analysis/blob/master/Campaign%20Outcome%20vs%20Campaign%20Length%20by%20%25%20(Plays).png)
-![](https://github.com/Helen-Ly/kickstarter-analysis/blob/master/Campaign%20Outcome%20vs%20Campaign%20Length%20(Plays).png)
+![](https://github.com/Helen-Ly/kickstarter-analysis/blob/master/Campaign%20Outcome%20vs%20Campaign%20Length%20(Plays)%201.png)
 
 
 **2. Outcome Based on Launch Date**
@@ -96,7 +95,7 @@ We filtered out the graph to strictly U.S. campaigns. We see similarities betwee
 
 There will always be limitations as we cannot thoroughly analyze everything. However, diving deep into the data, we were able to answer our questions and tackle a few identified limitations:
 
-1. Length may contribute to its ultimate success and failure as the highest number of successful campaigns were about 21 to 30 days in length.
-2. Roughly over 350 campaigns that ran for the length mentioned above were successful.
+1. Length may contribute to its ultimate success and failure as the highest number of successful campaigns ran for 30 days in length.
+2. Roughly 300 campaigns that ran for the length mentioned above were successful.
 3. We believe the best time to launch a campaign would be in June because of what happens in the following two months. The number of succesful campaigns increases to its peak and the number of failed campaigns continue to drop. This allows us to assume that campaigns are  gaining more attention resulting to an increase in exposure to this supply of backers for the ones lauching in June.
 4. If you are planning to launch your campaign for a play, a good location would be the U.S. as they have more than half the amount of successful campaigns.
