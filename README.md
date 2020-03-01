@@ -93,9 +93,10 @@ We filtered out the graph to strictly U.S. campaigns. We see similarities betwee
 
 #### Conclusion
 
-There will always be limitations as we cannot thoroughly analyze everything. However, diving deep into the data, we were able to answer our questions and tackle a few identified limitations:
+There will always be limitations as we cannot thoroughly analyze everything. However, diving deep into the data, we are able to answer our questions and tackle a few identified limitations:
 
 1. Length may contribute to its ultimate success and failure as the highest number of successful campaigns ran for 30 days in length.
-2. Roughly 300 campaigns ran for 30 days in length were successful.
+2. Roughly 300 campaigns that ran for 30 days were successful.
 3. We believe the best time to launch a campaign would be in June because of what happens in the following two months. The number of succesful campaigns increases to its peak and the number of failed campaigns continue to drop. This allows us to assume that campaigns are  gaining more attention resulting to an increase in exposure to this supply of backers for the ones lauching in June.
-4. If you are planning to launch your campaign for a play, a good location would be the U.S. as they have more than half the amount of successful campaigns.
+4. Your goal amount should be reasonable and attainable. As such, our research shows that it should be between $1,000 to $4,999 because majority of the successful campaigns had a goal amount within that range.
+5. If you are planning to launch your campaign for a play, a good location would be the U.S. as they have more than half the amount of successful campaigns.
