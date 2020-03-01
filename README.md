@@ -46,7 +46,7 @@ Two graphs were pulled from this data to take a further look:
 
 ![1](https://github.com/Helen-Ly/kickstarter-analysis/blob/master/Campaign%20Outcome%20vs%20Goal%20Amount%20by%20%25%20(Plays).png)
 
-At a quick glance, the first graph shows that launching a campaign during Qtr2 and Qtr 3 equates to the highest amount of successful campaigns. As such, one will come to the conclusion that the best time to launch is Quarter 2 beacuse the rate starts dropping after Quarter 3. This means that it will not be wise to launch any campaigns near the end of the year. The second graph shows the relationship between campaign outcomes and the goal amount by percentage. Initially, you see that campaigns with lower goal amounts have a higher success rate versus ones with goal amounts $50,000 or more.
+At a quick glance, the first graph shows that launching a campaign during Qtr2 and Qtr3 equates to the highest amount of successful campaigns. As such, one will come to the conclusion that the best time to launch is Quarter 2 beacuse the rate starts dropping after Quarter 3. This means that it will not be wise to launch any campaigns near the end of the year. The second graph shows the relationship between campaign outcomes and the goal amount by percentage. Initially, you see that campaigns with lower goal amounts have a higher success rate versus ones with goal amounts $50,000 or more.
 
 #### Limitations
 With the graphs presented above, we only just scratch the surface with information. We run into issues when we want to know specifically which month(s) are best for the launch date, the suggested length of the campaign and if that contributes to its success. As well, are the successful campaigns exclusively within a certain country or if it is spread across the world. 
@@ -65,7 +65,7 @@ In the first graph, you don't see how many campaigns are under each category, bu
 
 **2. Outcome Based on Launch Date**
 
-As mentioned before, Qrt2 and Qrt3 is a good time to launch a campaign. But can we narrow that down to a specific month? Below, we are showing the same chart but by month.
+As mentioned before, Qtr2 and Qtr3 is a good time to launch a campaign. But can we narrow that down to a specific month? Below, we are showing the same chart but by month.
 
 The highest peak on this graph is in August, so some may conclude that launching a campaign in August will have the highest chance for success.
 
@@ -76,7 +76,7 @@ Another way to look at it is the overall points within a Quarter. Quarter 2 has 
 
 **3. Campaign Outcome vs. Goal Amount (Plays)**
 
-Another possible limitation is if these successful campaigns are spread across the world or if it is more centralized in one country. The graph titled *Campaign Outcome vs. Goal Amount by Percentage* shows a high percent of successful campaigns with a goal amount of $4,999 and under. The next peak would be between $35,000 to $44,999. The question then becomes, how many are in each category and where are these campaigns being launched? 
+Another possible limitation is if these successful campaigns are spread across the world or if it is more centralized in one country. The above graph titled *Campaign Outcome vs. Goal Amount by %* shows a high percent of successful campaigns with a goal amount of $4,999 and under. The next peak would be between $35,000 to $44,999. The question then becomes, how many are in each category and where are these campaigns being launched? 
 
 In this first graph, we wanted to identify if the number of campaigns are evenly spread apart.
 
@@ -96,6 +96,6 @@ We filtered out the graph to strictly U.S. campaigns. We see similarities betwee
 There will always be limitations as we cannot thoroughly analyze everything. However, diving deep into the data, we were able to answer our questions and tackle a few identified limitations:
 
 1. Length may contribute to its ultimate success and failure as the highest number of successful campaigns ran for 30 days in length.
-2. Roughly 300 campaigns that ran for the length mentioned above were successful.
+2. Roughly 300 campaigns ran for 30 days in length were successful.
 3. We believe the best time to launch a campaign would be in June because of what happens in the following two months. The number of succesful campaigns increases to its peak and the number of failed campaigns continue to drop. This allows us to assume that campaigns are  gaining more attention resulting to an increase in exposure to this supply of backers for the ones lauching in June.
 4. If you are planning to launch your campaign for a play, a good location would be the U.S. as they have more than half the amount of successful campaigns.
