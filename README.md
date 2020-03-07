@@ -80,13 +80,13 @@ Another possible limitation is if these successful campaigns are spread across t
 
 In this first graph, we wanted to identify if the number of campaigns are evenly spread apart.
 
-As we can see, majority of the campaigns fall within the $1,000 to $4,999 range and there are way below 50 campaigns that fall within the $35,000 to $44,999 range. This provides a clear picture that the graph is more left-skewed.
+As we can see, majority of the campaigns fall within the $1,000 to $4,999 range and there are way below 50 campaigns that fall within the $35,000 to $44,999 range. This provides a clear picture that the graph is more right-skewed.
 
 ![](https://github.com/Helen-Ly/kickstarter-analysis/blob/master/Campaign%20Outcome%20vs%20Goal%20Amount%20(Plays).png)
 
 Our next question can be answered in the graph below.
 
-We filtered out the graph to strictly U.S. campaigns. We see similarities between the two graphs. Both are left-skewed and based on the number of successful campaigns in U.S., the data shows that more than half of the successful campaigns are launched in U.S.
+We filtered out the graph to strictly U.S. campaigns. We see similarities between the two graphs. Both are right-skewed and based on the number of successful campaigns in U.S., the data shows that more than half of the successful campaigns are launched in U.S.
 
 ![](https://github.com/Helen-Ly/kickstarter-analysis/blob/master/Campaign%20Outcome%20vs%20Goal%20Amount%20(US-Plays).png)
 
